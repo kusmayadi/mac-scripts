@@ -17,6 +17,9 @@ brew install php70-mcrypt
 brew install php70-memcached
 brew install php70-redis
 
+brew install Caskroom/cask/osxfuse
+brew install homebrew/fuse/ntfs-3g
+
 brew install neovim/neovim/neovim
 
 brew cask install iterm2
