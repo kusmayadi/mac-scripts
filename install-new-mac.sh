@@ -34,6 +34,8 @@ brew cask install skype
 brew cask install google-chrome
 brew cask install firefox
 brew cask install adapter
+brew cask install atom
+brew cask install bluestacks
 
 npm install -g grunt
 npm install -g grunt-cli
