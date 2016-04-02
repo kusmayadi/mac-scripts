@@ -43,3 +43,19 @@ npm install -g pm2
 npm install -g sails
 npm install -g titanium
 npm install -g alloy
+
+# atom themes
+apm install naturerainbow-light-syntax
+apm install gl-light-syntax
+apm install two-light-ui
+apm install isotope-light-ui
+apm install danikai-light-syntax
+
+# atom packages
+apm install editorconfig
+apm install atom-bootstrap3
+apm install atom-bootstrap4
+apm install db-migrate-snippets
+apm install project-manager
+apm install term3
+apm install vim-mode-plus
