@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export HOMEBREW_GITHUB_API_TOKEN="1885453c3f02e217a1ecc24eb1715bce2f4265ae"
+
 # Install brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
