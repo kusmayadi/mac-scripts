@@ -62,3 +62,6 @@ apm install db-migrate-snippets
 apm install project-manager
 apm install term3
 apm install vim-mode-plus
+
+# codeface
+git clone git@github.com:chrissimpkins/codeface.git ~/Downloads/codeface
