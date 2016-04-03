@@ -65,3 +65,6 @@ apm install vim-mode-plus
 
 # codeface
 git clone git@github.com:chrissimpkins/codeface.git ~/Downloads/codeface
+
+# iTerm2 Color Schemes
+git clone git@github.com:mbadolato/iTerm2-Color-Schemes.git ~/Downloads/iTerm-Color-Schemes
