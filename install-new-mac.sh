@@ -40,6 +40,9 @@ brew cask install adapter
 brew cask install atom
 brew cask install bluestacks
 
+echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.bash_profile
+
+# node packages
 npm install -g grunt
 npm install -g grunt-cli
 npm install -g pm2
