@@ -39,6 +39,7 @@ brew cask install firefox
 brew cask install adapter
 brew cask install atom
 brew cask install bluestacks
+brew cask install utorrent
 
 echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.bash_profile
 
