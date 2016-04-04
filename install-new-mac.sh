@@ -31,6 +31,7 @@ brew cask install vagrant
 brew cask install macdown
 brew cask install sequel-pro
 brew cask install robomongo
+brew cask install rdm
 
 brew cask install vlc
 brew cask install skype
