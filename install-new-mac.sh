@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export HOMEBREW_GITHUB_API_TOKEN="1885453c3f02e217a1ecc24eb1715bce2f4265ae"
+export HOMEBREW_GITHUB_API_TOKEN="f5781ae4d4bcbacb948f9f6a3b905c5c8ce3f7b3"
 
 # Install brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
