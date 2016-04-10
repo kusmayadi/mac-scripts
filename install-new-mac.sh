@@ -42,6 +42,8 @@ brew cask install atom
 brew cask install bluestacks
 brew cask install utorrent
 brew cask install android-file-transfer
+brew cask install google-drive
+brew cask install dnscrypt
 
 echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.bash_profile
 
