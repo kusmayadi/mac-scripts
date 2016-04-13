@@ -46,6 +46,7 @@ brew cask install utorrent
 brew cask install android-file-transfer
 brew cask install google-drive
 brew cask install dnscrypt
+brew cask install the-unarchiver
 
 echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.bash_profile
 
