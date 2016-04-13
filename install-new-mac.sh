@@ -33,6 +33,7 @@ brew cask install sequel-pro
 brew cask install robomongo
 brew cask install rdm
 brew cask install mysqlworkbench
+brew cask install postman
 
 brew cask install vlc
 brew cask install skype
