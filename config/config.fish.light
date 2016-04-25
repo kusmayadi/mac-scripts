@@ -1,0 +1,11 @@
+function fish_prompt
+    echo ""
+    set_color --background 8A2908
+    set_color ffffff
+    printf ' %s ' (pwd)
+    echo ''
+    set_color --background normal
+    set_color --bold 0B2F3A
+    printf '%s@%s: ' (whoami) (hostname)
+    set_color normal
+end
