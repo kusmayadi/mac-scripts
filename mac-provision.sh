@@ -36,6 +36,7 @@ brew cask install mysqlworkbench
 brew cask install postman
 
 brew cask install vlc
+brew cask install kodi
 brew cask install skype
 brew cask install google-chrome
 brew cask install firefox
