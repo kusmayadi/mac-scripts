@@ -15,10 +15,10 @@ brew install mysql
 brew install nginx
 brew install memcached
 
-brew install php70
-brew install php70-mcrypt
-brew install php70-memcached
-brew install php70-redis
+# PHP
+brew install homebrew/php/php71
+brew install homebrew/php/php71-mcrypt
+brew install homebrew/php/php71-redis
 
 brew install neovim/neovim/neovim
 
