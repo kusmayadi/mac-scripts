@@ -83,4 +83,4 @@ git clone git@github.com:chrissimpkins/codeface.git ~/Downloads/codeface
 git clone git@github.com:mbadolato/iTerm2-Color-Schemes.git ~/Downloads/iTerm-Color-Schemes
 
 # Set fish prompt
-cp config/config.fish ~/.config/fish/
+cp config/config.fish.light ~/.config/fish/config.fish
