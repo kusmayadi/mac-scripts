@@ -57,6 +57,7 @@ npm install -g pm2
 npm install -g sails
 npm install -g titanium
 npm install -g alloy
+npm install -g yarn
 
 # atom themes
 apm install naturerainbow-light-syntax
