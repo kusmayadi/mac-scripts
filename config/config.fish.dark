@@ -1,6 +1,6 @@
 function fish_prompt
     echo ""
-    set_color 0075cd
+    set_color 98C379
     echo (pwd)
     set_color ffffff
     printf '%s@%s: ' (whoami) (hostname)
