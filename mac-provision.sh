@@ -85,5 +85,10 @@ git clone git@github.com:chrissimpkins/codeface.git ~/Downloads/codeface
 # iTerm2 Color Schemes
 git clone git@github.com:mbadolato/iTerm2-Color-Schemes.git ~/Downloads/iTerm-Color-Schemes
 
+# Recommended iTerm2 settings
+# Color: dotgov
+# Font: Terminus 14pt
+# Window: 190 x 54
+
 # Set fish prompt
 cp config/config.fish.dark ~/.config/fish/config.fish
