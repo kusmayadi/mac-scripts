@@ -14,6 +14,7 @@ brew install mongodb
 brew install mysql
 brew install nginx
 brew install memcached
+brew install ansible
 
 # PHP
 brew install homebrew/php/php71
