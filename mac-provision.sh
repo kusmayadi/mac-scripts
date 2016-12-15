@@ -15,6 +15,7 @@ brew install mysql
 brew install nginx
 brew install memcached
 brew install ansible
+brew install go
 
 # PHP
 brew install homebrew/php/php71
@@ -53,6 +54,22 @@ brew cask install dnscrypt
 brew cask install the-unarchiver
 
 echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.bash_profile
+
+# Create Workspace folder
+if [ ! -d "$HOME/Workspace" ]; then
+    mkdir $HOME/Workspace
+fi
+
+# Create GOPATH folder
+if [ ! -d "$HOME/Workspace/Go" ]; then
+    mkdir $HOME/Workspace/Go
+    mkdir $HOME/Workspace/Go/bin
+fi
+
+# Go
+echo 'export GOPATH=$HOME/Workspace/Go' >> ~/.bash_profile
+echo 'export PATH=$GOPATH/bin:$PATH' >> ~/.bash_profile
+echo 'export PATH="/usr/local/opt/go/libexec/bin:$PATH"' >> ~/.bash_profile
 
 # node packages
 npm install -g grunt
