@@ -113,7 +113,6 @@ touch $HOME/.vimrc
 echo 'set tabstop=2' >> $HOME/.vimrc
 echo 'set shiftwidth=2' >> $HOME/.vimrc
 echo 'set expandtab' >> $HOME/.vimrc
-echo 'set smarttab' >> $HOME/.vimrc
 
 # Set neovim
 if [ ! -d "$HOME/.config" ]; then
