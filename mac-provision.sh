@@ -108,5 +108,19 @@ git clone git@github.com:mbadolato/iTerm2-Color-Schemes.git ~/Downloads/iTerm-Co
 # Font: Terminus 14pt
 # Window: 190 x 54
 
+# Set vim
+touch $HOME/.vimrc
+echo 'set tabstop=2' >> $HOME/.vimrc
+echo 'set shiftwidth=2' >> $HOME/.vimrc
+echo 'set expandtab' >> $HOME/.vimrc
+echo 'set smarttab' >> $HOME/.vimrc
+
+# Set neovim
+touch $HOME/.config/nvim/init.vim
+echo 'set tabstop=2' >> $HOME/.config/nvim/init.vim
+echo 'set shiftwidth=2' >> $HOME/.config/nvim/init.vim
+echo 'set expandtab' >> $HOME/.config/nvim/init.vim
+echo 'set smarttab' >> $HOME/.config/nvim/init.vim
+
 # Set fish prompt
 cp config/config.fish.dark ~/.config/fish/config.fish
