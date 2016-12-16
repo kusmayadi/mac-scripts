@@ -116,11 +116,18 @@ echo 'set expandtab' >> $HOME/.vimrc
 echo 'set smarttab' >> $HOME/.vimrc
 
 # Set neovim
+if [ ! -d "$HOME/.config" ]; then
+    mkdir $HOME/.config
+fi
+
+if [ ! -d "$HOME/.config/nvim" ]; then
+    mkdir $HOME/.config/nvim
+fi
+
 touch $HOME/.config/nvim/init.vim
 echo 'set tabstop=2' >> $HOME/.config/nvim/init.vim
 echo 'set shiftwidth=2' >> $HOME/.config/nvim/init.vim
 echo 'set expandtab' >> $HOME/.config/nvim/init.vim
-echo 'set smarttab' >> $HOME/.config/nvim/init.vim
 
 # Set fish prompt
 cp config/config.fish.dark ~/.config/fish/config.fish
