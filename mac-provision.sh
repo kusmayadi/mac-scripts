@@ -16,6 +16,7 @@ brew install nginx
 brew install memcached
 brew install ansible
 brew install go
+brew install pyenv
 
 # PHP
 brew install homebrew/php/php71
@@ -71,6 +72,8 @@ fi
 echo 'export GOPATH=$HOME/Workspace/Go' >> ~/.bash_profile
 echo 'export PATH=$GOPATH/bin:$PATH' >> ~/.bash_profile
 echo 'export PATH="/usr/local/opt/go/libexec/bin:$PATH"' >> ~/.bash_profile
+echo 'export PATH="$HOME/.pyenv/shims:$PATH"' >> ~/.basddh_profile
+echo 'if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi' >> ~/.bash_profile
 
 # node packages
 npm install -g grunt
@@ -128,6 +131,7 @@ touch $HOME/.config/nvim/init.vim
 echo 'set tabstop=2' >> $HOME/.config/nvim/init.vim
 echo 'set shiftwidth=2' >> $HOME/.config/nvim/init.vim
 echo 'set expandtab' >> $HOME/.config/nvim/init.vim
+echo 'set number' >> $HOME/.config/nvim/init.vim
 
 # Set fish prompt
 cp config/config.fish.dark ~/.config/fish/config.fish
