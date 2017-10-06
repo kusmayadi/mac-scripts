@@ -95,6 +95,7 @@ apm install vim-mode-plus
 apm install nuclide
 apm install custom-title
 apm install file-icons
+apm install highlight-selected
 
 # codeface
 git clone git@github.com:chrissimpkins/codeface.git ~/Downloads/codeface
