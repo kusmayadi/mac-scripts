@@ -19,7 +19,6 @@ brew install pyenv-virtualenv
 # PHP
 brew install homebrew/php/php71
 brew install homebrew/php/php71-mcrypt
-brew install homebrew/php/php71-redis
 brew install composer
 
 brew install neovim/neovim/neovim
