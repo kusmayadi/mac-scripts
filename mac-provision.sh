@@ -9,7 +9,6 @@ brew install wget
 brew install fish
 brew install mcrypt
 brew install nodejs
-brew install mongodb
 brew install mysql
 brew install nginx
 brew install memcached
