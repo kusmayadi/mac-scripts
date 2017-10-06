@@ -27,7 +27,7 @@ brew install composer
 
 brew install neovim/neovim/neovim
 
-brew cask install iterm2
+brew cask install hyper
 brew cask install spectacle
 brew cask install appcleaner
 
