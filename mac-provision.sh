@@ -74,7 +74,6 @@ echo 'if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-
 # node packages
 npm install -g grunt
 npm install -g grunt-cli
-npm install -g sails
 npm install -g titanium
 npm install -g alloy
 npm install -g yarn
