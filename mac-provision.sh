@@ -91,7 +91,6 @@ apm install atom-bootstrap3
 apm install atom-bootstrap4
 apm install db-migrate-snippets
 apm install project-manager
-apm install term3
 apm install vim-mode-plus
 apm install nuclide
 
