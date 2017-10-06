@@ -85,6 +85,7 @@ apm install two-light-ui
 apm install isotope-light-ui
 apm install isotope-ui
 apm install danikai-light-syntax
+apm install chester-atom-syntax
 
 # atom packages
 apm install editorconfig
