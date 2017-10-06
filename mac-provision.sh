@@ -83,6 +83,7 @@ apm install naturerainbow-light-syntax
 apm install gl-light-syntax
 apm install two-light-ui
 apm install isotope-light-ui
+apm install isotope-ui
 apm install danikai-light-syntax
 
 # atom packages
