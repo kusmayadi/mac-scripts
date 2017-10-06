@@ -93,6 +93,7 @@ apm install db-migrate-snippets
 apm install project-manager
 apm install vim-mode-plus
 apm install nuclide
+apm install custom-title
 
 # codeface
 git clone git@github.com:chrissimpkins/codeface.git ~/Downloads/codeface
