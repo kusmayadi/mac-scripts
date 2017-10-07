@@ -3,12 +3,12 @@
 CMD=$1
 
 case $CMD in
-  "enable" ) 
+  "open" ) 
     sudo spctl --master-enable
     ;;
-  "disable" ) 
+  "lock" ) 
     sudo spctl --master-disable
     ;;
-  * ) echo "Usage: newapp.sh enable | disable"
+  * ) echo "Usage: newapp.sh open | lock"
     ;;
 esac
