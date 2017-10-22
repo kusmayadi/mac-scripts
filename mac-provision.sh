@@ -46,7 +46,7 @@ brew cask install adapter
 brew cask install atom
 brew cask install utorrent
 brew cask install android-file-transfer
-brew cask install google-drive
+brew cask install google-drive-file-stream
 brew cask install dnscrypt
 brew cask install the-unarchiver
 
