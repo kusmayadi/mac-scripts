@@ -17,6 +17,7 @@ brew install pyenv
 brew install pyenv-virtualenv
 
 # PHP
+brew install zlib
 brew install homebrew/php/php71
 brew install homebrew/php/php71-mcrypt
 brew install composer
