@@ -121,4 +121,8 @@ echo 'set expandtab' >> $HOME/.config/nvim/init.vim
 echo 'set number' >> $HOME/.config/nvim/init.vim
 
 # Set fish prompt
+if [ ! -d "$HOME/.config/fish" ]; then
+    mkdir $HOME/.config/fish
+fi
+
 cp config/config.fish.dark ~/.config/fish/config.fish
