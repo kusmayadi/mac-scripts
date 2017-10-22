@@ -44,7 +44,6 @@ brew cask install google-chrome
 brew cask install firefox
 brew cask install adapter
 brew cask install atom
-brew cask install utorrent
 brew cask install android-file-transfer
 brew cask install google-backup-and-sync
 brew cask install dnscrypt
