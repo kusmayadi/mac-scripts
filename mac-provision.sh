@@ -45,6 +45,7 @@ brew cask install adapter
 brew cask install atom
 brew cask install android-file-transfer
 brew cask install google-backup-and-sync
+brew cask install dropbox
 brew cask install dnscrypt
 brew cask install the-unarchiver
 
