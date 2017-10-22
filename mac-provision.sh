@@ -78,7 +78,6 @@ npm install -g alloy
 npm install -g yarn
 
 # atom themes
-apm install naturerainbow-light-syntax
 apm install gl-light-syntax
 apm install two-light-ui
 apm install isotope-light-ui
