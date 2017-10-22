@@ -28,7 +28,6 @@ brew cask install hyper
 brew cask install spectacle
 brew cask install appcleaner
 
-brew cask install virtualbox
 brew cask install vagrant
 brew cask install macdown
 brew cask install sequel-pro
