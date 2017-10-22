@@ -96,6 +96,11 @@ apm install custom-title
 apm install file-icons
 apm install highlight-selected
 
+# hyperjs plugins
+npm install -g hpm-cli
+hpm install hyper-star-wars
+hpm install hyper-quit
+
 # codeface
 git clone git@github.com:chrissimpkins/codeface.git ~/Downloads/codeface
 
