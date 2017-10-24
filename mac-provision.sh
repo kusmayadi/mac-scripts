@@ -135,3 +135,4 @@ echo 'set number' >> $HOME/.config/nvim/init.vim
 curl -L https://get.oh-my.fish | fish
 omf install agnoster
 omf theme agnoster
+omf install osx
