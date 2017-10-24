@@ -27,6 +27,7 @@ brew install homebrew/php/php71-mcrypt
 brew install composer
 
 brew install neovim/neovim/neovim
+brew install terminal-notifier
 
 brew cask install hyper
 brew cask install spectacle
