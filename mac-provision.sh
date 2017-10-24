@@ -17,8 +17,8 @@ brew install pyenv
 brew install pyenv-virtualenv
 
 # zsh
-brew install zsh
-sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+# brew install zsh
+# sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 # PHP
 brew install zlib
