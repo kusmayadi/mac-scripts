@@ -132,8 +132,12 @@ echo 'set shiftwidth=2' >> $HOME/.config/nvim/init.vim
 echo 'set expandtab' >> $HOME/.config/nvim/init.vim
 echo 'set number' >> $HOME/.config/nvim/init.vim
 
-# Set fish prompt
+# fish shell / omf
 curl -L https://get.oh-my.fish | fish
 omf install agnoster
 omf theme agnoster
 omf install osx
+
+# fish shell / fisherman
+curl -Lo ~/.config/fish/functions/fisher.fish --create-dirs https://git.io/fisher
+fisher install done
