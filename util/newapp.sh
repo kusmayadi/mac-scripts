@@ -3,10 +3,10 @@
 CMD=$1
 
 case $CMD in
-  "open" ) 
+  "lock" ) 
     sudo spctl --master-enable
     ;;
-  "lock" ) 
+  "open" ) 
     sudo spctl --master-disable
     ;;
   * ) echo "Usage: newapp.sh open | lock"
