@@ -43,7 +43,7 @@ brew cask install vlc
 brew cask install kodi
 brew cask install spotify
 brew cask install skype
-brew cask install whatsapp
+# brew cask install whatsapp
 brew cask install google-chrome
 brew cask install firefox
 brew cask install adapter
