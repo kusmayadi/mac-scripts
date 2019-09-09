@@ -108,7 +108,8 @@ apm install highlight-selected
 # hpm install hyper-quit
 
 # codeface
-git clone git@github.com:chrissimpkins/codeface.git ~/Downloads/codeface
+mkdir $HOME/Tools/Fonts
+git clone git@github.com:chrissimpkins/codeface.git $HOME/Tools/Fonts/codeface
 
 # Set vim
 touch $HOME/.vimrc
