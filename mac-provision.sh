@@ -32,6 +32,8 @@ brew install terminal-notifier
 brew cask install spectacle
 brew cask install appcleaner
 
+brew cask install iterm2
+
 brew cask install vagrant
 brew cask install macdown
 brew cask install sequel-pro
