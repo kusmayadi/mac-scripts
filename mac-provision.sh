@@ -13,8 +13,8 @@ brew install nginx
 brew install memcached
 brew install ansible
 brew install go
-brew install pyenv
-brew install pyenv-virtualenv
+#brew install pyenv
+#brew install pyenv-virtualenv
 
 # zsh
 # brew install zsh
