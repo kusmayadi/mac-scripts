@@ -22,8 +22,7 @@ brew install go
 
 # PHP
 brew install zlib
-brew install homebrew/php/php71
-brew install homebrew/php/php71-mcrypt
+brew install php
 brew install composer
 
 brew install neovim/neovim/neovim
