@@ -13,6 +13,7 @@ brew install nginx
 brew install memcached
 brew install ansible
 brew install go
+brew install mysql
 #brew install pyenv
 #brew install pyenv-virtualenv
 
