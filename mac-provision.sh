@@ -45,7 +45,7 @@ brew cask install spotify
 brew cask install skype
 # brew cask install whatsapp
 brew cask install google-chrome
-brew cask install firefox
+# brew cask install firefox
 brew cask install adapter
 brew cask install atom
 brew cask install android-file-transfer
