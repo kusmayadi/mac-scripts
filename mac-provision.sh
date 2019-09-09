@@ -72,8 +72,8 @@ echo 'export GOPATH=$HOME/Workspace/Go' >> ~/.bash_profile
 echo 'export PATH=$GOPATH/bin:$PATH' >> ~/.bash_profile
 echo 'export PATH="/usr/local/opt/go/libexec/bin:$PATH"' >> ~/.bash_profile
 echo 'export PATH="$HOME/.pyenv/shims:$PATH"' >> ~/.basddh_profile
-echo 'if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi' >> ~/.bash_profile
-echo 'if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi';
+# echo 'if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi' >> ~/.bash_profile
+# echo 'if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi';
 
 # node packages
 npm install -g grunt
