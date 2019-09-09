@@ -78,8 +78,8 @@ echo 'export PATH="$HOME/.pyenv/shims:$PATH"' >> ~/.basddh_profile
 # node packages
 npm install -g grunt
 npm install -g grunt-cli
-npm install -g titanium
-npm install -g alloy
+# npm install -g titanium
+# npm install -g alloy
 npm install -g yarn
 
 # atom themes
