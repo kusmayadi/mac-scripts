@@ -55,7 +55,6 @@ brew cask install atom
 brew cask install android-file-transfer
 brew cask install google-backup-and-sync
 brew cask install dropbox
-brew cask install dnscrypt
 brew cask install the-unarchiver
 
 echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.bash_profile
