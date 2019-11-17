@@ -33,6 +33,7 @@ brew install terminal-notifier
 # brew cask install hyper
 brew cask install spectacle
 brew cask install appcleaner
+brew cask install itsycal
 
 brew cask install iterm2
 
