@@ -29,6 +29,7 @@ brew install composer
 
 brew install neovim/neovim/neovim
 brew install terminal-notifier
+brew install testdisk
 
 # brew cask install hyper
 brew cask install spectacle
